@@ -172,7 +172,7 @@ This contract incorporates one or more clauses by reference, with the same force
 
 **FAR 52.204-18 - Commercial and Government Entity Code Maintenance (JULY 2016)**
 
-**FAR 52.212-4- Contract Terms and Conditions - Commercial items (JAN 2017) **
+**FAR 52.212-4- Contract Terms and Conditions - Commercial items (JAN 2017)**
 
 **FAR 52.211-6 Brand Name or Equal. (Nov 1999)**
 
