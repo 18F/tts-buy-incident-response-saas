@@ -246,4 +246,4 @@ Upon award of the acquisition, TTS may publish the total price of the selected p
 11.0 Clauses
 ============
 
-See Addendum - Commercial Contract Clauses
+See [Addendum - Commercial Contract Clauses](Addendum-Commercial-Contract-Clauses.md)
