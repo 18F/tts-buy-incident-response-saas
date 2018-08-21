@@ -1,8 +1,6 @@
 # TTS Incident Response Management Platform SaaS
 
-This solicitation is posted to FBO under [**TTS_Bug_Bounty**](https://www.fbo.gov/notices/e21b0d5dd866c3bf82c9013e24272403). 
-
-Please submit any questions as GitHub issues in this repository by *August 27, 2018 at 4:00pm EST*. The Technology Transformation Services (TTS) Contracting Officer (CO) will only be responding to questions submitted using the Issue Template. Comments from other parties or in other formats will still be considered but we cannot commit to responding to them.
+This solicitation is posted to FBO under **TTS Incident Repsonse**.  Please submit any questions as GitHub issues in this repository by *August 27, 2018 at 4:00pm EST*. The Technology Transformation Services (TTS) Contracting Officer (CO) will only be responding to questions submitted using the Issue Template. Comments from other parties or in other formats will still be considered but we cannot commit to responding to them.
 
 **Proposals are due by August 31, 2018 at 4:00pm EST.**
 
